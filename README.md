@@ -1,14 +1,163 @@
-<h1 align="center">Hi 👋, I'm Laxman Rawat</h1>
-<h3 align="center">A passionate Full Stack Developer from India 🇮🇳</h3>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=laxman43aa&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" />
+<!-- Animated Typing Intro -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=0A66C2&center=true&vCenter=true&width=900&lines=Hi+I'm+Laxman+Rawat+👋;Fullstack+Developer;Frontend+Developer+%7C+HTML+%7C+CSS+%7C+JavaScript+%7C+React.js;Backend+Developer+%7C+Node.js+%7C+MongoDB;Building+Modern+and+Scalable+Web+Applications" />
+</p>
+
+<h3 align="center">
+Bachelor of Computer Applications (BCA) @ Dr. Bhimrao Ambedkar University, Agra (DBRAU) 
+</h3>
+
+<p align="center">
+Passionate about designing and developing <b>modern fullstack web applications</b> using React.js, Node.js, and MongoDB 🚀
+</p>
+
+---
+
+# 🧑‍💻 About Me
+
+🎓 Bachelor of Computer Applications (BCA) - Dr. Bhimrao Ambedkar University, Agra (DBRAU) 
+💻 Passionate Fullstack Developer with strong interest in modern web technologies  
+⚛️ Building responsive and scalable web applications using React.js, Node.js, and MongoDB  
+🎨 Interested in Frontend Development, Backend Development, and UI/UX Design  
+🚀 Continuously learning new technologies and improving development skills  
+
+---
+
+# 🛠️ Tech Stack
+
+### 👨‍💻 Programming Languages
+Python(Basic) • JavaScript  
+
+### ⚛️ Frontend Development
+React.js • Tailwind CSS • HTML • CSS  
+
+### ⚙️ Backend Development
+Node.js • Express.js  
+
+### 🗄️ Databases
+MongoDB • MySQL  
+
+### ☁️ Tools & Technologies
+Git • GitHub • VS Code • vercel • Figma  
+
+---
+
+# 📚 Relevant Coursework & Skills
+
+✔ Web Development  
+✔ Frontend Development  
+✔ Backend Development  
+✔ Database Management System (DBMS)  
+✔ Object-Oriented Programming (OOP)  
+✔ Responsive Web Design  
+✔ REST API Integration  
+✔ Git & GitHub  
+
+---
+
+# 🌐 Web Development Skills
+
+✔ HTML5  
+✔ CSS3  
+✔ JavaScript  
+✔ React.js  
+✔ Node.js  
+✔ Express.js  
+✔ MongoDB  
+✔ Responsive Web Design  
+✔ REST API Integration  
+
+---
+
+# 🚀 Projects
+
+## 🌐 HiiHive — College Social Media Platform
+
+🚀 A modern social media web application designed especially for college students to connect, share, and interact in one platform.
+
+### 📌 Features
+✔ User Authentication & Secure Login  
+✔ Create, Like, and Share Posts  
+✔ Responsive Modern UI Design  
+✔ Real-time User Interaction  
+✔ MongoDB Database Integration  
+
+### 🛠️ Tech Stack
+React.js • Node.js • Express.js • MongoDB • Firebase  
+
+🔗 GitHub Repository:  
+https://github.com/
+
+---
+
+## 💼 Personal Portfolio Website
+
+🚀 A responsive and interactive portfolio website showcasing my skills, projects, and development journey.
+
+### 📌 Features
+✔ Modern Responsive Design  
+✔ Smooth UI & Animations  
+✔ Project Showcase Section  
+✔ Contact & Social Links Integration  
+
+### 🛠️ Tech Stack
+HTML • CSS • JavaScript • React.js  
+
+🔗 GitHub Repository:  
+https://github.com/
+
+---
+
+## 🛒 Fullstack Web Applications
+
+🚀 Developing scalable and user-friendly fullstack applications with frontend and backend integration.
+
+### 📌 Features
+✔ REST API Integration  
+✔ Authentication System  
+✔ Database Connectivity  
+✔ Responsive User Experience  
+
+### 🛠️ Tech Stack
+React.js • Node.js • Express.js • MongoDB  
+
+🔗 GitHub Repository:  
+https://github.com/
+
+---
+
+# 📊 GitHub & Coding Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=laxman43aa&show_icons=true&theme=tokyonight" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=laxman43aa&theme=tokyonight" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=laxman43aa&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+# 🌐 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/laxman-rawat-432682324/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://github.com/laxman43aa">
+    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" />
+  </a>
+  <a href="mailto:laxmanrawat9194@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=laxman43aa&theme=onedark&no-frame=true&title=Stars,Followers,Commits,Repositories,PullRequest,Issues" />
+⭐ <b>“Building modern web applications that create real-world impact.”</b>
 </p>
 
+---
 - 🔭 I’m currently working on **HiiHive – Student Community & Productivity Platform**
 
 - 🌱 I’m currently learning **React.js, Node.js, and MongoDB**
