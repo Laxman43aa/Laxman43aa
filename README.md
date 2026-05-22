@@ -126,12 +126,33 @@ React.js • Node.js • Express.js • MongoDB
 https://github.com/
 
 ---
+# 📊 GitHub & Coding Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=laxman43aa&show_icons=true&theme=tokyonight)
+<p align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=laxman43aa&theme=tokyonight)
+  <!-- GitHub Stats -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=laxman43aa&show_icons=true&theme=tokyonight&hide_border=true" 
+    height="180em" 
+  />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=laxman43aa&layout=compact&theme=tokyonight)
+  <br/><br/>
+
+  <!-- GitHub Streak -->
+  <img 
+    src="https://streak-stats.demolab.com?user=laxman43aa&theme=tokyonight&hide_border=true" 
+    height="180em" 
+  />
+
+  <br/><br/>
+
+  <!-- Top Languages -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=laxman43aa&layout=compact&theme=tokyonight&hide_border=true" 
+    height="180em" 
+  />
+
+</p>
 
 ---
 
