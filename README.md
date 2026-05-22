@@ -127,17 +127,12 @@ https://github.com/
 
 ---
 
-# 📊 GitHub & Coding Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=laxman43aa&show_icons=true&theme=tokyonight)
 
-<p align="center">
+![GitHub Streak](https://streak-stats.demolab.com?user=laxman43aa&theme=tokyonight)
 
-<img src="https://github-readme-stats.vercel.app/api?username=laxman43aa&show_icons=true&theme=tokyonight" />
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=laxman43aa&layout=compact&theme=tokyonight)
 
-<img src="https://streak-stats.demolab.com?user=laxman43aa&theme=tokyonight" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=laxman43aa&layout=compact&theme=tokyonight" />
-
-</p>
 ---
 
 # 🌐 Let's Connect
