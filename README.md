@@ -130,13 +130,14 @@ https://github.com/
 # 📊 GitHub & Coding Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=laxman43aa&show_icons=true&theme=tokyonight" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=laxman43aa&theme=tokyonight" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=laxman43aa&layout=compact&theme=tokyonight" />
-</p>
 
+<img src="https://github-readme-stats.vercel.app/api?username=laxman43aa&show_icons=true&theme=tokyonight" />
+
+<img src="https://streak-stats.demolab.com?user=laxman43aa&theme=tokyonight" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=laxman43aa&layout=compact&theme=tokyonight" />
+
+</p>
 ---
 
 # 🌐 Let's Connect
